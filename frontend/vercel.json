@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://meme-arena-backend.vercel.app/api/:path*"
+    }
+  ]
+}
